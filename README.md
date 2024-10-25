@@ -23,7 +23,7 @@
     </a>
   </p>
 
-⚡ Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
+💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
 ---
 
@@ -46,6 +46,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:winness.rakotozafy@outlook.fr">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
