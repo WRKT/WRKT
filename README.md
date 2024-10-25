@@ -29,7 +29,7 @@
 
 <h3>GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=dark" alt="s4ndalHat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=dark" alt="s4ndalHat's GitHub Stats" />
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=dark" alt="GitHub Streak" />
@@ -46,6 +46,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:winness.rakotozafy@outlook.fr">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=outlook&logoColor=white" alt="Email" />
   </a>
 </p>
