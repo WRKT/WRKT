@@ -9,16 +9,16 @@
 
 💻 I contribute by submitting issues and helping others with:
   <p>
-    <a href="https://about.gitlab.com/">
+    <a href="https://gitlab.com/gitlab-org/gitlab-foss">
       <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab"/>
     </a>
-    <a href="https://goharbor.io/">
+    <a href="https://github.com/goharbor/harbor">
       <img src="https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=fff" alt="Harbor"/>
     </a>
-    <a href="https://velero.io/">
+    <a href="https://github.com/vmware-tanzu/velero">
       <img src="https://img.shields.io/badge/-Velero-3761A8?logo=velero&logoColor=fff" alt="Velero"/>
     </a>
-    <a href="https://k8up.io/">
+    <a href="https://github.com/k8up-io/k8up">
       <img src="https://img.shields.io/badge/-k8up-0078D7?logo=kubernetes&logoColor=fff" alt="k8up"/>
     </a>
   </p>
