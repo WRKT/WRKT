@@ -34,6 +34,9 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=dark" alt="GitHub Streak" />
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
