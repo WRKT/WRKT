@@ -35,7 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WRKT&theme=tokyonight" alt="Wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=WRKT&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
