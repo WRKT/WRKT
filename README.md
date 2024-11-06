@@ -29,13 +29,13 @@
 
 <h3>GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=transparent" alt="WRKT's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=tokyonight" alt="WRKT's GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
