@@ -27,15 +27,14 @@
 
 ---
 
-<h3>GitHub Stats</h3>
-<p>
+<h3> 🌟 GitHub Stats</h3>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=tokyonight" alt="WRKT's GitHub Stats" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WRKT&theme=tokyonight" alt="GitHub Trophy" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WRKT&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
