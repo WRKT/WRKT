@@ -1,18 +1,27 @@
 <h1>Hello there, I'm @WRKT!</h1>
 <h3>A Linux enthusiast, passionate about networking, system programming, and automation</h3>
 
+<!-- Backend Languages -->
+<h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<!-- Tools -->
+<h4>Cloud Native Tooling</h4>
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
+<!-- Contributions -->
 💻 I contribute by submitting issues and helping others with:
 <p>
   <a href="https://gitlab.com/gitlab-org/gitlab-foss">
@@ -31,8 +40,8 @@
 
 💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
+<!-- Contact -->
 <h3>📫 Connect with me</h3>
-
 <p>
   <a href="https://linkedin.com/in/winness-r">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
