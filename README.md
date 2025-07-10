@@ -1,11 +1,5 @@
-<h1>Hello there 👋, I'm @WRKT!</h1>
+<h1>Hello there, I'm @WRKT!</h1>
 <h3>A Linux enthusiast, passionate about networking, system programming, and automation</h3>
-
-🔭 I’m currently working on **Kubernetes, CI/CD pipelines, GitOps**
-
-🌱 I’m learning **Go programming language**
-
-💬 Ask me about **system programming, automation, networking**
 
 💻 I contribute by submitting issues and helping others with:
   <p>
@@ -27,21 +21,24 @@
 
 ---
 
-<h3> 🌟 GitHub Stats</h3>
+<h3>📊 GitHub Metrics</h3>
 
-<h3>GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=tokyonight" alt="WRKT's GitHub Stats" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/WRKT/WRKT/main/github-metrics.svg" alt="Metrics from lowlighter/metrics" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRKT&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+> ⚙️ Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics) — with plugins for:
+> - Most used languages
+> - Commit history & contribution stats
+> - Starred topics
+> - Build and CI/CD stats (optional)
+> - Repositories by topic
+> - Recent activity
+
 ---
 
-<h3>Connect with me</h3>
+<h3>📫 Connect with me</h3>
+
 <p>
   <a href="https://linkedin.com/in/winness-r">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
