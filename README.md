@@ -1,5 +1,6 @@
 <h1>Hello there, I'm @WRKT!</h1>
-<h3>A Linux enthusiast, passionate about networking, system programming, and automation</h3>
+> A Linux enthusiast, passionate about networking, system programming, and automation
+> 💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
 <!-- Backend Languages -->
 ### 💻 Programming Languages
@@ -23,7 +24,7 @@
 
 ---
 <!-- Contributions -->
-### ✳️ Contributions
+### 🥳 Contributions
 <p>
   <a href="https://gitlab.com/gitlab-org/gitlab-foss" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
@@ -38,8 +39,6 @@
     <img src="https://img.shields.io/badge/k8up-0078D7?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8up" />
   </a>
 </p>
-
-💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
 ---
 <!-- Contact -->
