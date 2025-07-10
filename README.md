@@ -19,24 +19,6 @@
 
 💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
----
-
-<h3>📊 GitHub Metrics</h3>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/WRKT/WRKT/main/github-metrics.svg" alt="Metrics from lowlighter/metrics" />
-</p>
-
-> ⚙️ Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics) — with plugins for:
-> - Most used languages
-> - Commit history & contribution stats
-> - Starred topics
-> - Build and CI/CD stats (optional)
-> - Repositories by topic
-> - Recent activity
-
----
-
 <h3>📫 Connect with me</h3>
 
 <p>
