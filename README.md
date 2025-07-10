@@ -24,16 +24,16 @@
 <!-- Contributions -->
 💻 I contribute by submitting issues and helping others with:
 <p>
-  <a href="https://gitlab.com/gitlab-org/gitlab-foss">
+  <a href="https://gitlab.com/gitlab-org/gitlab-foss" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
-  <a href="https://github.com/goharbor/harbor">
+  <a href="https://github.com/goharbor/harbor" target="_blank">
     <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" alt="Harbor" />
   </a>
-  <a href="https://github.com/vmware-tanzu/velero">
+  <a href="https://github.com/vmware-tanzu/velero" target="_blank">
     <img src="https://img.shields.io/badge/Velero-3761A8?style=for-the-badge&logo=velero&logoColor=white" alt="Velero" />
   </a>
-  <a href="https://github.com/k8up-io/k8up">
+  <a href="https://github.com/k8up-io/k8up" target="_blank">
     <img src="https://img.shields.io/badge/k8up-0078D7?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8up" />
   </a>
 </p>
@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:winness.rakotozafy@outlook.fr">
+  <a href="mailto:winness.rakotozafy@outlook.fr" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/minutemailer.svg" alt="Email" width="30" height="30" />
   </a>
 </p>
