@@ -56,10 +56,11 @@
 </p>
 
 ---
-### 📊 My GitHub Metrics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WRKT/WRKT/main/github-metrics.svg" alt="WRKT’s GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true" alt="WRKT's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact" alt="WRKT's Top Languages" />
 </p>
 
 
