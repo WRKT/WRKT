@@ -16,16 +16,16 @@
 💻 I contribute by submitting issues and helping others with:
 <p>
   <a href="https://gitlab.com/gitlab-org/gitlab-foss">
-    <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   <a href="https://github.com/goharbor/harbor">
-    <img src="https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=fff" alt="Harbor"/>
+    <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" alt="Harbor" />
   </a>
   <a href="https://github.com/vmware-tanzu/velero">
-    <img src="https://img.shields.io/badge/-Velero-3761A8?logo=velero&logoColor=fff" alt="Velero"/>
+    <img src="https://img.shields.io/badge/Velero-3761A8?style=for-the-badge&logo=velero&logoColor=white" alt="Velero" />
   </a>
   <a href="https://github.com/k8up-io/k8up">
-    <img src="https://img.shields.io/badge/-k8up-0078D7?logo=kubernetes&logoColor=fff" alt="k8up"/>
+    <img src="https://img.shields.io/badge/k8up-0078D7?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8up" />
   </a>
 </p>
 
