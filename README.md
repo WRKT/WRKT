@@ -1,6 +1,8 @@
 <h1>Hello there, I'm @WRKT!</h1>
-> - A Linux enthusiast, passionate about networking, system programming, and automation
-> - 💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
+
+> A Linux enthusiast, passionate about networking, system programming, and automation  
+> 💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
+
 
 <!-- Backend Languages -->
 ### 💻 Programming Languages
