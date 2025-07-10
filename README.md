@@ -2,7 +2,7 @@
 <h3>A Linux enthusiast, passionate about networking, system programming, and automation</h3>
 
 <!-- Backend Languages -->
-<h4>Programming Languages</h4>
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -12,7 +12,7 @@
 </p>
 
 <!-- Tools -->
-<h4>Cloud Native Tooling</h4>
+### 🧰 Cloud Native Tooling
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -22,7 +22,7 @@
 </p>
 
 <!-- Contributions -->
-💻 I contribute by submitting issues and helping others with:
+### ✳️ Contributions
 <p>
   <a href="https://gitlab.com/gitlab-org/gitlab-foss" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
@@ -41,7 +41,7 @@
 💡 Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
 <!-- Contact -->
-<h3>📫 Connect with me</h3>
+### 📫 Connect with me
 <p>
   <a href="https://linkedin.com/in/winness-r" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -52,5 +52,10 @@
   </a>
 </p>
 
+### 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WRKT/WRKT/main/github-metrics.svg" alt="WRKT’s GitHub Metrics" />
+</p>
 
 
