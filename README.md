@@ -56,11 +56,12 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true" alt="WRKT's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact" alt="WRKT's Top Languages" />
-</p>
+![WRKT’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=dark)
+
+![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=dark)
+
 
 
