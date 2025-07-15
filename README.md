@@ -15,7 +15,7 @@
 </p>
 
 <!-- Tools -->
-### 🧰 Cloud Native Tooling
+### ☁️ Cloud Native Tooling
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -44,6 +44,6 @@
 
 ![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&show_icons=true&bg_color=00000000)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WRKT&theme=transparent" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=WRKT&theme=dark&hide_border=true)
 
 
