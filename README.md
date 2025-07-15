@@ -40,10 +40,10 @@
 ---
 
 ### 📊 GitHub Stats
-![WRKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&bg_color=00000000&rank_icon=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Mark.png)
+![WRKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&bg_color=00000000)
 
 ![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&show_icons=true&bg_color=00000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WRKT&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WRKT&theme=transparent)
 
 
