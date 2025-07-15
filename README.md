@@ -44,6 +44,6 @@
 
 ![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&show_icons=true&bg_color=00000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WRKT&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=WRKT&theme=transparent)
 
 
