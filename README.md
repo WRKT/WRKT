@@ -25,24 +25,6 @@
 </p>
 
 ---
-<!-- Contributions -->
-### 🥳 Contributions
-<p>
-  <a href="https://gitlab.com/gitlab-org/gitlab-foss" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://github.com/goharbor/harbor" target="_blank">
-    <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" alt="Harbor" />
-  </a>
-  <a href="https://github.com/vmware-tanzu/velero" target="_blank">
-    <img src="https://img.shields.io/badge/Velero-3761A8?style=for-the-badge&logo=velero&logoColor=white" alt="Velero" />
-  </a>
-  <a href="https://github.com/k8up-io/k8up" target="_blank">
-    <img src="https://img.shields.io/badge/k8up-0078D7?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8up" />
-  </a>
-</p>
-
----
 <!-- Contact -->
 ### 📫 Connect with me
 <p>
@@ -58,8 +40,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-![WRKT’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=dark)
+![WRKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&bg_color=00000000)
 
 ![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=dark)
 
