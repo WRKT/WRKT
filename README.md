@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 ![WRKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&bg_color=00000000)
 
-![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&theme=dark)
+![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&show_icons=true&bg_color=00000000)
 
 
 
