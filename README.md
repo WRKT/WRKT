@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
----
 <!-- Contact -->
 ### 📫 Connect with me
 <p>
