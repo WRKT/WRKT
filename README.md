@@ -40,9 +40,9 @@
 ---
 
 ### 📊 GitHub Stats
-![WRKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&bg_color=00000000)
+![WRKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRKT&show_icons=true&theme=dark)
 
-![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&show_icons=true&bg_color=00000000)
+![WRKT’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRKT&layout=compact&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WRKT&theme=dark&hide_border=true)
 
